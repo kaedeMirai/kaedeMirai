@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Marat 👋
 
+
+
+How to reach me:
+- Telegram: @Mt_Av
+- Email: akhmetzyanov.mt@gmail.com
 <!--
 **Mario8602/Mario8602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
