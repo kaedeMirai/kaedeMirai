@@ -2,6 +2,8 @@
 
 ##
 
+### Skills
+
 
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
