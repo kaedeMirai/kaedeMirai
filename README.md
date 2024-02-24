@@ -23,6 +23,8 @@
 
 
 How to reach me:
+
+[![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mt_Av)
 - Telegram: @Mt_Av
 - Email: akhmetzyanov.mt@gmail.com
 <!--
