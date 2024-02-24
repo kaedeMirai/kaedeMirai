@@ -24,9 +24,10 @@
 
 How to reach me:
 
-[![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mt_Av)
-- Telegram: @Mt_Av
-- Email: akhmetzyanov.mt@gmail.com
+[![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mt_Av) [![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](akhmetzyanov.mt@gmail.com)
+
+
+
 <!--
 **Mario8602/Mario8602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
