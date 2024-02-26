@@ -1,24 +1,18 @@
-### Hi there, I'm Marat 👋
+### Hi there, I'm Marat
 
 ##
+ - I am a Python Backend Developer
+ - I am studying at the middle python developer course at Yandex Practicum
+ - I love pet-projects. They help me grow professionally all my life.
 
 ### Skills
 
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/fastapi-%232c7871?style=for-the-badge&logo=fastapi&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/djnago-%23092E20?style=for-the-badge&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-%2382a1d1?style=for-the-badge&logo=docker&logoColor=white) 
 
-![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/mongodb-%238fada1?style=for-the-badge&logo=mongodb&logoColor=white) ![Static Badge](https://img.shields.io/badge/postgresql-%234e7fc9?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/elasticsearch-%230a5a73?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Static Badge](https://img.shields.io/badge/nginx-%238fdea8?style=for-the-badge&logo=nginx&logoColor=white) 
 
-![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Static Badge](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white) 
-
-![Static Badge](https://img.shields.io/badge/kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Static Badge](https://img.shields.io/badge/rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Static Badge](https://img.shields.io/badge/celery-%2337814A?style=for-the-badge&logo=celery&logoColor=white) ![Static Badge](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white) 
-
-
-
-
-
-
-
-
-
+![Static Badge](https://img.shields.io/badge/kafka-%234b4a4d?style=for-the-badge&logo=apachekafka&logoColor=white) ![Static Badge](https://img.shields.io/badge/rabbitmq-%23ffcc99?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Static Badge](https://img.shields.io/badge/celery-%23618f73?style=for-the-badge&logo=celery&logoColor=white) ![Static Badge](https://img.shields.io/badge/redis-%23c65454?style=for-the-badge&logo=redis&logoColor=white) ![Static Badge](https://img.shields.io/badge/linux-%23f9e54e?style=for-the-badge&logo=linux&logoColor=white)
 
 
 
